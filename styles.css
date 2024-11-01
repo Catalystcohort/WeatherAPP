@@ -69,7 +69,8 @@ button:hover{
     display: flex;
     justify-content: space-between;
 }
-.hourly-item{flex: 0 0 auto;
+.hourly-item{
+    flex: 0 0 auto;
     width: 80px;
     display: flex;
     flex-direction: column;
